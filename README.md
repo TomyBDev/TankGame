@@ -2,6 +2,8 @@
 
 This repo only contains the source files containing code, all godot assets and other related files are not inlcuded. The executable will be listed as a release.
 
+note: This project is only set up to work locally, so to test launch multiple client on same machine. Some network configuration may cause issues hosting and connecting to lobbies.
+
 Interacting with UI:
 Every thing you can click in ui with glow yellow when you hover over it. The click will register when you release the mouse click.
 
